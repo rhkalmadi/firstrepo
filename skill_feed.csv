@@ -1,0 +1,84 @@
+Skill,Prerquisite
+Cascading Style Sheets (CSS),HTML
+JavaScript (ES6),HTML
+JavaScript (ES6),CSS
+Bootstrap CSS,HTML
+Bootstrap CSS,CSS
+Bootstrap CSS,JavaScript
+AJAX,HTML
+AJAX,CSS
+AJAX,JavaScript (ES6)
+Redux,JavaScript (ES6)
+Redux,React JS
+React JS,HTML
+React JS,CSS
+React JS,JavaScript
+Vuejs,HTML
+Vuejs,CSS
+Vuejs,JavaScript
+Angular,HTML
+Angular,CSS
+Angular,JavaScript
+Express,JavaScript
+Express,NodeJS
+Django Rest Framework,Python
+Spring JPA,Java
+Hibernate,Java
+Flask,Python
+Laravel,PHP
+NodeJS,JS
+ASP.NET,C#
+Flutter,Dart
+React Native,JavaScript (ES6)
+Ionic,HTML
+Ionic,CSS
+Ionic,JavaScript (ES6)
+Pandas,Python
+NumPy,Python
+Scikit-learn,Python
+TensorFlow,Python
+PyTorch,Python
+Apache Spark,Python
+Apache Spark,Scala
+BigQuery,SQL
+Azure Machine Learning,R
+Azure Machine Learning,Python
+Amazon Sagemaker,Python
+Google Cloud AI Platform,Python
+Jenkins,Groovy
+AWS CDK,TypeScript
+AWS CDK,JavaScript (ES6)
+AWS CDK,Python
+CI/CD,Git
+Configuration Management,Chef
+Configuration Management,Puppet
+Configuration Management,Ansible
+Log Management,ELK
+Embedded C,C
+Microfrontend,HTML
+Microfrontend,CSS
+Microfrontend,JavaScript (ES6)
+Device Drivers,C
+RTOS/Linux,C
+Embedded C/C++,C++
+Unity,C#
+Unreal Engine,C++
+DirectX,C++
+OpenGL,C++
+Selenium,JavaScript (ES6)
+Selenium,Python
+Selenium,Java
+Protractor,JavaScript (ES6)
+Protractor,Angular
+Cucumber,Java
+Cucumber,JavaScript (ES6)
+Pytest,Python
+JUnit,Java
+Appium,Java
+Appium,Python
+TestNG,Java
+Robot Framework,Java
+Robot Framework,Python
+Cypress,JavaScript (ES6)
+Gatling,Scala
+Locust,Python
